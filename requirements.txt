@@ -1,0 +1,7 @@
+pandas
+regex
+contractions
+nltk
+matplotlib
+wordcloud
+scikit-learn
