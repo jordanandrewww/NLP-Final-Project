@@ -7,3 +7,5 @@ wordcloud
 scikit-learn
 gensim
 pyLDAvis
+sentence-transformers
+seaborn
